@@ -17,7 +17,7 @@ import java.util.*;
             System.out.println("Введите 3: Евро");
             System.out.println("Введите 4: Тенге");
             System.out.println("Введите 5: Российский рубль");
-            // добавить опцию 4й валюты
+
 
             System.out.println("\nВаш выбор: ");
             choice = sc.nextInt();
